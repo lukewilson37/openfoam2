@@ -1,0 +1,8 @@
+/home1/08376/lew2547/openfoam2/circular-cylinder-re20-A23
+Mon Mar 28 20:57:28 CDT 2022
+Running blockMesh on /home1/08376/lew2547/openfoam2/circular-cylinder-re20-A23
+Running checkMesh on /home1/08376/lew2547/openfoam2/circular-cylinder-re20-A23
+Running decomposePar on /home1/08376/lew2547/openfoam2/circular-cylinder-re20-A23
+Running icoFoam in parallel on /home1/08376/lew2547/openfoam2/circular-cylinder-re20-A23 using 2 processes
+Running reconstructPar on /home1/08376/lew2547/openfoam2/circular-cylinder-re20-A23
+Mon Mar 28 21:05:38 CDT 2022
