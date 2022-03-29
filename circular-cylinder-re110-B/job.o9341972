@@ -1,0 +1,8 @@
+/home1/08376/lew2547/circular-cylinder-re20-B
+Thu Mar 24 08:42:02 CDT 2022
+Running blockMesh on /home1/08376/lew2547/circular-cylinder-re20-B
+Running checkMesh on /home1/08376/lew2547/circular-cylinder-re20-B
+Running decomposePar on /home1/08376/lew2547/circular-cylinder-re20-B
+Running icoFoam in parallel on /home1/08376/lew2547/circular-cylinder-re20-B using 2 processes
+Running reconstructPar on /home1/08376/lew2547/circular-cylinder-re20-B
+Thu Mar 24 09:10:09 CDT 2022
