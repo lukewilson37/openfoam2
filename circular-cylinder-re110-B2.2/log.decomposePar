@@ -8,9 +8,9 @@
 Build  : 7-49b2b3b8b082
 Exec   : decomposePar
 Date   : Mar 29 2022
-Time   : 22:55:17
-Host   : "c421-002.stampede2.tacc.utexas.edu"
-PID    : 104884
+Time   : 23:14:02
+Host   : "c401-064.stampede2.tacc.utexas.edu"
+PID    : 148059
 I/O    : uncollated
 Case   : /home1/08376/lew2547/openfoam2/circular-cylinder-re110-B2.2
 nProcs : 1
