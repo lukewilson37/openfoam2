@@ -4,3 +4,5 @@ Running blockMesh on /home1/08376/lew2547/openfoam2/circular-cylinder-re110-B2.4
 Running checkMesh on /home1/08376/lew2547/openfoam2/circular-cylinder-re110-B2.4
 Running decomposePar on /home1/08376/lew2547/openfoam2/circular-cylinder-re110-B2.4
 Running icoFoam in parallel on /home1/08376/lew2547/openfoam2/circular-cylinder-re110-B2.4 using 2 processes
+Running reconstructPar on /home1/08376/lew2547/openfoam2/circular-cylinder-re110-B2.4
+Tue Mar 29 23:47:00 CDT 2022
